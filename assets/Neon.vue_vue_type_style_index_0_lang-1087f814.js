@@ -1,1 +1,0 @@
-import{d as n,c as t,k as a,g as c,o as l}from"./index-bcd9fbb1.js";const p=n({__name:"Neon",props:{color:{default:"blue"}},setup(e){const o=e;return(s,r)=>(l(),t("div",{class:c(["gas block",[`${o.color}`]])},[a(s.$slots,"content")],2))}});export{p as _};
